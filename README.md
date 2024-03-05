@@ -5,9 +5,9 @@
 #### Analytical Skills: Exploratory Analysis, Predictive Modeling, A/B Testing, Causal Analysis, Time Series Analysis, Statistical Analysis, Data Visualization 
 
 ### Education
-Master of Science in Business Analytics, Carlson School of Management at the University of Minnesota | (_May 2024_)
+- Master of Science in Business Analytics, Carlson School of Management at the University of Minnesota | (_May 2024_)
 
-Bachelor of Science in Business Analytics, Herbert Business School at the University of Miami | (_May_ 2023)
+- Bachelor of Science in Business Analytics, Herbert Business School at the University of Miami | (_May_ 2023)
 
 ### Work Experience 
 **Analytics Student Consultant @ Carlson Analytics Lab (_June 2023 - Present_)** 
