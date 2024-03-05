@@ -33,8 +33,8 @@ off dataset consisting of 2,000+ schools.
 
 
 ## Projects 
- [Insurance Claim Prediction] (https://github.com/jdevrao19/Insurance_Claims_ML)
-
+<a href="https://www.linkedin.com/in/dev-rao/">Insurance Claim Prediction</a>
+<img src = "insurance_claim_image.jpeg"/>
 
 
 
