@@ -1,10 +1,8 @@
 title: J. Dev Rao
-#logo: headshot.jpg
-#show_downloads: false
-author: 
-  avatar: "headshot.jpg"
-  location: "Minneapolis, Minnesota"
-  LinkedIn: "https://www.linkedin.com/in/dev-rao/"
-  email: "jdevrao@gmail.com"
+logo: headshot.jpg
+location: "Minneapolis, Minnesota"
+LinkedIn: "https://www.linkedin.com/in/dev-rao/"
+email: "jdevrao@gmail.com"
+
 
 theme: jekyll-theme-minimal
