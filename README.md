@@ -36,6 +36,6 @@ off dataset consisting of 2,000+ schools.
 <a href="https://github.com/jdevrao19/Insurance_Claims_ML">Insurance Claim Prediction</a>
 <img src = "insurance_claim_image.jpeg"/>
 <br><br>
-<a href="[https://github.com/jdevrao19/Insurance_Claims_ML](https://github.com/jdevrao19/Kaggle-Scrabble_Predicting_Player_Ratings)https://github.com/jdevrao19/Kaggle-Scrabble_Predicting_Player_Ratings">Scrabble Player Rating Prediction </a>
+<a href="https://github.com/jdevrao19/Kaggle-Scrabble_Predicting_Player_Ratings">Scrabble Player Rating Prediction </a>
 <img src = "Scrabble-Logo-2003.png"/>
 
