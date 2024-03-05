@@ -33,7 +33,8 @@ off dataset consisting of 2,000+ schools.
 
 
 ## Projects 
-Kaggle Scrabble Player Rating Prediction 
--
+ [Insurance Claim Prediction] (https://github.com/jdevrao19/Insurance_Claims_ML)
+
+
 
 
