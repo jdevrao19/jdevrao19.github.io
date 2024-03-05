@@ -1,4 +1,11 @@
 title: J. Dev Rao
 logo: headshot.jpg
 #show_downloads: false
+naviation: 
+- text: LinkedIn
+  internal: false 
+  url: https://www.linkedin.com/in/dev-rao/
+  
+- text: Email: jdevrao@gmail.com
+
 theme: jekyll-theme-minimal
