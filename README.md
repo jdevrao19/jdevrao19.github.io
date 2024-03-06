@@ -39,7 +39,7 @@ off dataset consisting of 2,000+ schools.
 ### Description
 In this project, based on Woogle.io datasets we are tasked with finding the rating of human players before a game is played. The games are between the bots and human users. We will be using metadata about the games and specific information about the turns in each game to predict the rating of the human opponents. The rating provided from our model will be evaluated by RMSE.
 <br><br>
-
+---------------------------------------
 <img src = "Scrabble-Logo-2003.png"/>
 <a href="https://github.com/jdevrao19/Kaggle-Scrabble_Predicting_Player_Ratings">Scrabble Player Rating Prediction </a>
 
