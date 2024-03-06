@@ -3,9 +3,9 @@ logo: headshot.jpg
 description: 
   Contact Information 
   <br><br>
-  Email - jdevrao@gmail.com
+  Email jdevrao@gmail.com
   <br><br>
   <a href="https://www.linkedin.com/in/dev-rao/">LinkedIn</a>
   
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
