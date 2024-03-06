@@ -42,5 +42,6 @@ In this project, based on Woogle.io datasets we are tasked with finding the rati
 
 <img src = "Scrabble-Logo-2003.png"/>
 <a href="https://github.com/jdevrao19/Kaggle-Scrabble_Predicting_Player_Ratings">Scrabble Player Rating Prediction </a>
+
 ### Description 
 Our project was an in-depth exploration of the daily tasks performed by insurance companies. The goal was to develop a model that could predict with a high degree of accuracy whether or not an insurance company's clients were likely to file a claim based on numerous factors.
