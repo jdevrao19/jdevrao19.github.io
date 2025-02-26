@@ -1,8 +1,8 @@
-# Aspiring Data Scientist, Data Analyst, and Business Analyst
+# Data Scientist 
 
-#### Technical Skills: Python, SQL, R/Rstudio, Tableau, Excel
+#### Technical Skills: Python, SQL, R/Rstudio, Tableau, Excel, Power BI, Snowflake
 
-#### Analytical Skills: Exploratory Analysis, Predictive Modeling, A/B Testing, Causal Analysis, Time Series Analysis, Statistical Analysis, Data Visualization 
+#### Analytical Skills: Supervised Learning, Unsupervised Learning, Deep Learning, Scikit-learn, TensorFlow, Reinforcement Learning, NLP, A/B Testing, Causal Analysis, Time Series Analysis, Statistical Analysis, Stremlit, and Data Visualization 
 
 ### Education
 - Master of Science in Business Analytics, Carlson School of Management at the University of Minnesota | (_May 2024_)
@@ -10,19 +10,22 @@
 - Bachelor of Science in Business Analytics, Herbert Business School at the University of Miami | (_May_ 2023)
 
 ### Work Experience 
-**Analytics Student Consultant @ Carlson Analytics Lab (_June 2023 - Present_)** 
-- Developed evaluation metrics based on data, client needs, and subject matter research for a 
-municipal government, school board, and testing service.
-- Created predictive models using R and Python to identify variables attributed to high performance.
-- Created Tableau dashboard to present results and recommendations based on findings.
+**Data Scientist @ Internal Revenue Service (_Oct. 2023 - Feb. 2025_)** 
+- Developed the first data-driven methodology and report utilized by Senior Staff to assess work efficiency across multiple departments, identifying key strengths and areas of improvement to drive strategic decision-making. 
+- Enhanced daily processes by automating SQL and Python queries, increasing efficiency by up to 10x and reducing manual workload.  
+- Delivered in-depth analysis through data visualizations in Python, PowerPoint, and Power BI, providing actionable insights to evaluate and optimize current work processes. 
+
+**Analytics Student Consultant @ Carlson Analytics Lab (_June 2023 - May 2024_)** 
+- Collaborated on 4 client projects within 10 months working with a government agency, a publicschool board, an educational testing company, and a financial literacy nonprofit organization. 
+- Developed automated process and predictive model for government client to identify individuals committing tax fraud, resulting in an improved process over 10 times faster with 87% accuracy.
+- Created K-Protypes mode using SQL and Python for nonprofit organization that identified most successful individuals, increasing precise marketing by 25%.
+- Identified, linked, cleaned, and merged multiple large data sources, of up to 8M-records, for the purpose of segmenting and classifying customers.
+- Organized projects as the Product Owner by leveraging Agile project management methodology and utilizing organizational tools such as Jira. 
 
 **Data Scientist @ ABM Industries (_May 2022 - August 2022_)** 
-- Developed methodologies with Data Science team to predict employee outcome metrics by using
-dataset containing close to 60 features.
-- Built machine learning models in Python focused on understanding factors contributing to 
-employee attrition rate.
-- Produced and presented reports using Tableau to ABM Industries teams identifying weaknesses in 
-employee retention.
+- Utilized Tableau to produce reports for senior leadership on vulnerability in employee retention and presented business recommendations to lower attrition rate by 13%.
+- Developed methodologies with Data Science team to predict employee attrition rate by using dataset containing close to 60 variables. 
+- Built XGBoost model in Python and identified factors related to employee attrition.
 
 **Data Analyst Intern @ Institutional Research and Stategic Analytics Department at the University of Miami (_June 2021 - January 2022_)** 
 - Pinpointed areas of improvement for school rank based on data consisting of 100+ features.
@@ -33,6 +36,17 @@ off dataset consisting of 2,000+ schools.
 
 
 ## Projects 
+<img src = "insurance_claim_image.jpeg"/>
+<a href="https://job-applications-tracker.streamlit.app/">Job Application Tracking Dashboard</a>
+
+### Description
+This project was designed to be a organized way to track job applications and visualize results. 
+The dashboard utilizes the Streamlit app package in Python along with a SQL Snowflake database. Any user can go in and add records, edit existing records, and delete records. 
+<br><br>
+---------------------------------------
+
+
+
 <img src = "insurance_claim_image.jpeg"/>
 <a href="https://github.com/jdevrao19/Insurance_Claims_ML">Insurance Claim Prediction</a>
 
