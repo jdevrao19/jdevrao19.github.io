@@ -36,7 +36,7 @@ off dataset consisting of 2,000+ schools.
 
 
 ## Projects 
-<img src = "insurance_claim_image.jpeg"/>
+<img src = "Job Application Tracker Desktop.jpg"/>
 <a href="https://job-applications-tracker.streamlit.app/">Job Application Tracking Dashboard</a>
 
 ### Description
