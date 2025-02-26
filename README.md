@@ -38,10 +38,11 @@ off dataset consisting of 2,000+ schools.
 ## Projects 
 <img src = "Job Application Tracker Desktop.jpg"/>
 <a href="https://job-applications-tracker.streamlit.app/">Job Application Tracking Dashboard</a>
+<a href="https://github.com/jdevrao19/Job_Application_Tracker/tree/main">Job Application Tracking Repository</a>
 
 ### Description
 This project was designed to be a organized way to track job applications and visualize results. 
-The dashboard utilizes the Streamlit app package in Python along with a SQL Snowflake database. Any user can go in and add records, edit existing records, and delete records. 
+The dashboard utilizes the Streamlit app package in Python along with a SQL Snowflake database. Any user can go in and add records, edit existing records, and delete records in real time. 
 <br><br>
 ---------------------------------------
 
