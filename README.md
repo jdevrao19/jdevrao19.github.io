@@ -10,7 +10,7 @@
 - Bachelor of Science in Business Analytics, Herbert Business School at the University of Miami | (_May_ 2023)
 
 ### Work Experience 
-**Data Scientist @ Internal Revenue Service (_Oct. 2024 - Feb. 2025_)** 
+**Data Scientist @ Internal Revenue Service (_Oct. 2024 - Apr. 2025_)** 
 - Developed the first data-driven methodology and report utilized by Senior Staff to assess work efficiency across multiple departments, identifying key strengths and areas of improvement to drive strategic decision-making. 
 - Enhanced daily processes by automating SQL and Python queries, increasing efficiency by up to 10x and reducing manual workload.  
 - Delivered in-depth analysis through data visualizations in Python, PowerPoint, and Power BI, providing actionable insights to evaluate and optimize current work processes. 
